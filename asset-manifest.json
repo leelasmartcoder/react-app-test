@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/react-app-test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-app-test/static/js/main.29fe6266.chunk.js",
-    "main.js.map": "/react-app-test/static/js/main.29fe6266.chunk.js.map",
-    "runtime-main.js": "/react-app-test/static/js/runtime-main.665d5def.js",
-    "runtime-main.js.map": "/react-app-test/static/js/runtime-main.665d5def.js.map",
-    "static/js/2.cad1a109.chunk.js": "/react-app-test/static/js/2.cad1a109.chunk.js",
-    "static/js/2.cad1a109.chunk.js.map": "/react-app-test/static/js/2.cad1a109.chunk.js.map",
-    "static/js/3.f289dec2.chunk.js": "/react-app-test/static/js/3.f289dec2.chunk.js",
-    "static/js/3.f289dec2.chunk.js.map": "/react-app-test/static/js/3.f289dec2.chunk.js.map",
+    "main.css": "/react-app-test/static/css/main.0642643f.chunk.css",
+    "main.js": "/react-app-test/static/js/main.0e0cf87a.chunk.js",
+    "main.js.map": "/react-app-test/static/js/main.0e0cf87a.chunk.js.map",
+    "runtime-main.js": "/react-app-test/static/js/runtime-main.3b9d0b0c.js",
+    "runtime-main.js.map": "/react-app-test/static/js/runtime-main.3b9d0b0c.js.map",
+    "static/js/2.816a668a.chunk.js": "/react-app-test/static/js/2.816a668a.chunk.js",
+    "static/js/2.816a668a.chunk.js.map": "/react-app-test/static/js/2.816a668a.chunk.js.map",
     "index.html": "/react-app-test/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-app-test/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.cad1a109.chunk.js.LICENSE.txt": "/react-app-test/static/js/2.cad1a109.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-app-test/static/media/logo.6ce24c58.svg"
+    "static/css/main.0642643f.chunk.css.map": "/react-app-test/static/css/main.0642643f.chunk.css.map",
+    "static/js/2.816a668a.chunk.js.LICENSE.txt": "/react-app-test/static/js/2.816a668a.chunk.js.LICENSE.txt",
+    "static/media/HeroSectionCss.css": "/react-app-test/static/media/cowlogo-1.8a4a8b17.jpeg",
+    "static/media/App.css": "/react-app-test/static/media/milkbackground-2.7dd7d3c2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.665d5def.js",
-    "static/js/2.cad1a109.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.29fe6266.chunk.js"
+    "static/js/runtime-main.3b9d0b0c.js",
+    "static/js/2.816a668a.chunk.js",
+    "static/css/main.0642643f.chunk.css",
+    "static/js/main.0e0cf87a.chunk.js"
   ]
 }
